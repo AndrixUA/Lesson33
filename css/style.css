@@ -1,0 +1,33 @@
+div {
+color:black;
+}
+
+.start {
+	color:rgb(222, 222, 171)
+}
+
+#green {
+	color: green;
+}
+
+.red {
+	color: red
+}
+
+.start.red {
+ color: darkred
+}
+.list p {
+	color:cornflowerblue
+}
+
+.list > p {
+	color: rgb(217, 217, 106);
+}
+* {
+	color: grey
+}
+.article,
+.main {
+color:blueviolet
+}
